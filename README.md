@@ -6,16 +6,10 @@ The vertices in the graphs for this assignment represent two kinds of people: st
 
 Here’s a sample friendship graph:
 
-(sam,rutgers)---(jane,rutgers)-----(bob,rutgers)   (sergei,rutgers)
-                          |                 |             |
-                          |                 |             |
-                     (kaitlin,rutgers)   (samir)----(aparna,rutgers)
-                          |                            |
-                          |                            |
-  (ming,penn state)----(nick,penn state)----(ricardo,penn state)
-                          |
-                          |
-                     (heather,penn state)
+                   (michele,cornell)----(rachel)     
+                          | 
+                          | 
+     (rich,ucla)---(tom,ucla)
 
 
                 
