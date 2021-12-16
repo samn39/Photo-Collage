@@ -17,8 +17,3 @@ Here’s a sample friendship graph:
                           |
                      (heather,penn state)
 
-
-                   (michele,cornell)----(rachel)     
-                          | 
-                          | 
-     (rich,ucla)---(tom,ucla)
